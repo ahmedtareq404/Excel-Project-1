@@ -13,6 +13,8 @@ This repository contains the customer churn analysis performed by DATABEL to ide
 
 ---
 
+# Dashboard View 
+<img width="3142" height="1318" alt="Customer Churn  Dashboard" src="https://github.com/user-attachments/assets/bdf857ec-9815-43f0-8144-557138287f65" />
 
 
 
